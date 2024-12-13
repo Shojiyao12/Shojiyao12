@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shaw Jie Yao</h1>
 <h3 align="center">👋 A Computer Science student currently studying at the University of the Philippines Tacloban College, where on a daily basis, I have been doing my best to improve my skills in Web and Software Development, Programming in general, and Open Communication by presenting various research topics.</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/https://cdn.dribbble.com/users/2147021/screenshots/4704853/managertyping.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2147021/screenshots/4704853/managertyping.gif">
 
 - 🔭 I’m currently working on [further enhancing my UP-Admissions-Simulator.](https://github.com/Shojiyao12/UP-Admissions-Simulator)
 
