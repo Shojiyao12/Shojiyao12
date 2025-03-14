@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shaw Jie Yao</h1>
 <h3 align="center">👋 A Computer Science student currently studying at the University of the Philippines Tacloban College, where on a daily basis, I have been doing my best to improve my skills in Web and Software Development, Programming in general, and Open Communication by presenting various research topics.</h3>
 
-- 🔭 I’m currently working on [further enhancing my GroceryNet Web-based Application]
+- 🔭 I’m currently working on further enhancing my GroceryNet Web-based Application
 
 - 🌱 I’m currently learning **more about image segmentation and classification, using CNN architectures.**
 
