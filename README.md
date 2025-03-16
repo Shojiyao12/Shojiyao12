@@ -3,20 +3,6 @@
 
 I’m a motivated computer science student with an affinity for technology and smooth office operations. My diverse skill set allows me to excel in software development and administrative support, making me a versatile and adaptable professional.</h3>
 
-🌟 What I Bring to the Table:
-
-💻 Technical Expertise:
-
-Proficient in front and back-end programming, data management, and web/software development.
-
-Hands-on experience with tools like Google Workspace, Microsoft Office, and Overleaf LaTeX.
-
-📂 Office & Administrative Skills:
-
-Experienced in data entry, virtual assistance, and administrative support.
-
-Skilled at ensuring smooth operations and effective communication in the workplace.
-
 - 🔭 I’m currently working on further enhancing my GroceryNet Web-based Application [further enhancing my GroceryNet Web-based Application.](https://github.com/Shojiyao12/GroceryNet_WebApplication)
 
 - 🌱 I’m currently learning **more about image segmentation and classification, using CNN architectures.**
@@ -27,7 +13,19 @@ Skilled at ensuring smooth operations and effective communication in the workpla
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1GzQammwSO_rYipgeBq9jqIwFAsM4MZa4?usp=sharing](https://drive.google.com/drive/folders/1GzQammwSO_rYipgeBq9jqIwFAsM4MZa4?usp=sharing)
 
-- ⚡ Fun fact **I like Cooking, Watching Movies/Series, and Traveling (Domestic and International)**
+🌟 What I Bring to the Table:
+
+💻 Technical Expertise:
+
+- Proficient in front and back-end programming, data management, and web/software development.
+
+- Hands-on experience with tools like Google Workspace, Microsoft Office, and Overleaf LaTeX.
+
+📂 Office & Administrative Skills:
+
+- Experienced in data entry, virtual assistance, and administrative support.
+
+- Skilled at ensuring smooth operations and effective communication in the workplace.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
