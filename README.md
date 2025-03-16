@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shaw Jie Yao</h1>
 <h3 align="center">👋 Motivated Computer Science Student | Tech Enthusiast | Office Efficiency Advocate
 
-I’m a motivated computer science student with an affinity for technology and smooth office operations. My diverse skill set allows me to excel in software development and administrative support, making me a versatile and adaptable professional.</h3>
+I’m a motivated computer science indvidual with an affinity for technology and smooth office operations. My diverse skill set allows me to excel in software development and administrative support, making me a versatile and adaptable professional.</h3>
 
 - 🔭 I’m currently working on further enhancing my GroceryNet Web-based Application [further enhancing my GroceryNet Web-based Application.](https://github.com/Shojiyao12/GroceryNet_WebApplication)
 
