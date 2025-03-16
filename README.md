@@ -3,9 +3,8 @@
 
 I’m a motivated computer science individual with an affinity for technology and smooth office operations. My diverse skill set allows me to excel in software development and administrative support, making me a versatile and adaptable professional.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="Coding" width="400" src="![GitHub Profile GIF](https://github.com/user-attachments/assets/c12c9c83-bc34-4dbd-8a8e-11d39dc5e7f8)">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username Shojiyao12&label-Profile%2Bviews&color-8e75b6&style-flat" alt="Shojiyao12" /> </p>
 <p align="left"> <a href="https://x.com/ShojiYao?t=fUSlZW9Xlbu-yZrOjxPDLA&s=07" target="blank"><img src="https://img.shields.io/twitter/follow/ShojiYao?logowtwitter&style-for-the-badge"
 alt-"Shojiyao12" /></a> </p>
 
