@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shaw Jie Yao</h1>
-<h3 align="center">Softaware Developer | Tech Enthusiast | Office Efficiency Advocate
+<h3 align="center">Computer Science Student | Tech Enthusiast | Office Efficiency Advocate
 
 I’m a motivated computer science individual with an affinity for technology and smooth office operations. My diverse skill set allows me to excel in software development and administrative support, making me a versatile and adaptable professional.</h3>
 
