@@ -1,7 +1,23 @@
 <h1 align="center">Hi 👋, I'm Shaw Jie Yao</h1>
-<h3 align="center">👋 A Computer Science student currently studying at the University of the Philippines Tacloban College, where on a daily basis, I have been doing my best to improve my skills in Web and Software Development, Programming in general, and Open Communication by presenting various research topics.</h3>
+<h3 align="center">👋 Motivated Computer Science Student | Tech Enthusiast | Office Efficiency Advocate
 
-- 🔭 I’m currently working on further enhancing my GroceryNet Web-based Application[further enhancing my GroceryNet Web-based Application.](https://github.com/Shojiyao12/UP-Admissions-Simulator)
+I’m a motivated computer science student with an affinity for technology and smooth office operations. My diverse skill set allows me to excel in software development and administrative support, making me a versatile and adaptable professional.
+
+🌟 What I Bring to the Table:
+
+💻 Technical Expertise:
+
+Proficient in front and back-end programming, data management, and web/software development.
+
+Hands-on experience with tools like Google Workspace, Microsoft Office, and Overleaf LaTeX.
+
+📂 Office & Administrative Skills:
+
+Experienced in data entry, virtual assistance, and administrative support.
+
+Skilled at ensuring smooth operations and effective communication in the workplace.</h3>
+
+- 🔭 I’m currently working on further enhancing my GroceryNet Web-based Application [further enhancing my GroceryNet Web-based Application.](https://github.com/Shojiyao12/GroceryNet_WebApplication)
 
 - 🌱 I’m currently learning **more about image segmentation and classification, using CNN architectures.**
 
