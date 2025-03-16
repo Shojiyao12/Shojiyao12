@@ -12,11 +12,9 @@ alt-"Shojiyao12" /></a> </p>
 
 - 🌱 I’m currently learning **more about image segmentation and classification using CNN architectures.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Shojiyao12?tab=repositories](https://github.com/Shojiyao12?tab=repositories)
+- 👨‍💻 All of my projects are available at the [repository](https://github.com/Shojiyao12?tab=repositories) section of my GitHub page.
 
 - 📫 How to reach me **sayao@up.edu.ph**
-
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1GzQammwSO_rYipgeBq9jqIwFAsM4MZa4?usp=sharing](https://drive.google.com/drive/folders/1GzQammwSO_rYipgeBq9jqIwFAsM4MZa4?usp=sharing)
 
 🌟 What I Bring to the Table:
 
