@@ -22,14 +22,6 @@ alt-"Shojiyao12" /></a> </p>
 
 - Proficient in front and back-end programming, data management, and web/software development.
 
-- Hands-on experience with tools like Google Workspace, Microsoft Office, and Overleaf LaTeX.
-
-📂 Office & Administrative Skills:
-
-- Experienced in data entry, virtual assistance, and administrative support.
-
-- Skilled at ensuring smooth operations and effective communication in the workplace.
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/shaw-jie-yao-279711307/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shaw-jie-yao-279711307/" height="30" width="40" /></a>
