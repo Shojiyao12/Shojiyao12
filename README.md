@@ -7,7 +7,7 @@ I’m a motivated computer science individual with an affinity for technology an
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username Shojiyao12&label-Profile%2Bviews&color-8e75b6&style-flat" alt="Shojiyao12" /> </p>
 <p align="left"> <a href="https://x.com/ShojiYao?t=fUSlZW9Xlbu-yZrOjxPDLA&s=07" target="blank"><img src="https://img.shields.io/twitter/follow/ShojiYao?logowtwitter&style-for-the-badge"
-alt-"ShojiYao12" /></a> </p>
+alt-"Shojiyao12" /></a> </p>
 
 - 🔭 I’m currently working on further enhancing my GroceryNet Web-based Application [further enhancing my GroceryNet Web-based Application.](https://github.com/Shojiyao12/GroceryNet_WebApplication)
 
