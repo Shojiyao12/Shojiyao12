@@ -19,7 +19,9 @@ alt-"Shojiyao12" /></a> </p>
 
 💻 Technical Expertise:
 
-- Proficient in front and back-end programming, data management, and web/software development.
+- Familiar with front and back-end programming, database management, and web/software development.
+Hands-on experience with tools like Java, Python, PHP, and cloud-based platforms.
+Proficient in MySQL, PostgreSQL, and other database management systems.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
