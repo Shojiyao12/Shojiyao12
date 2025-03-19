@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shaw Jie Yao</h1>
-<h3 align="center">Software Development
+<h3 align="center">Software Developer
 
 I’m an aspiring developer with an affinity for technology and smooth office operations. My diverse skill set allows me to excel in software development and administrative tasks, making me a versatile and adaptable professional.</h3>
 
