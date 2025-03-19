@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shaw Jie Yao</h1>
-<h3 align="center">Computer Science Student | Tech Enthusiast | Office Efficiency Advocate
+<h3 align="center">Software Development
 
-I’m an aspiring developer with an affinity for technology and smooth office operations. My diverse skill set allows me to excel in software development and administrative support, making me a versatile and adaptable professional.</h3>
+I’m an aspiring developer with an affinity for technology and smooth office operations. My diverse skill set allows me to excel in software development and administrative tasks, making me a versatile and adaptable professional.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/c12c9c83-bc34-4dbd-8a8e-11d39dc5e7f8">
 
